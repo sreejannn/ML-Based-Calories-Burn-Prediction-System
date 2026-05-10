@@ -1,0 +1,1 @@
+An application that predicts the calories burned during exercise using Linear Regression & Random Forest. Trains on exercise + calories datasets with BMI calculation, gender encoding, and preprocessing. Offers real-time predictions, model metrics
